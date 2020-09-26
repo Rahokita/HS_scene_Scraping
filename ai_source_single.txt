@@ -1,0 +1,107 @@
+﻿<html>
+<body>
+        <!--▼作品-->
+        <div class="list_area clearfix" >
+
+          <div class="thumbnail row">
+
+                        <div class="label">
+              <div class="label_tip">
+              </div>
+            </div>
+
+            <!--★クリップ★-->
+            <img id="clip63" class="clip" src="/user_data/packages/eccubeOnBootstrap3/img/common/clip.png" alt=""/>
+
+            <div class="scene-img">
+              <!--★ダウンロードボタン★-->
+              <a href="?path_image=https://aishoujo-img.s3-ap-northeast-1.amazonaws.com/scene/image/upai_scene_0000063.png&idx=63&mode=download"id="63"class="download-link">
+                <!--★画像★-->
+                <div id="img63"class="picture"style="background-image: url(https://aishoujo-img.s3-ap-northeast-1.amazonaws.com/scene/thumb/s_upai_scene_0000063.png)">
+                  <!--★カード表示・ダウンロード★-->
+                  <div id="dl63" class="dl-view">
+                    <p>クリックしてダウンロード</p>
+                    <div class="dl-view_icon">
+                      <i class="fas fa-arrow-down"></i>
+                    </div>
+                  </div>
+
+                </div>
+              </a>
+            </div>
+
+            <!--▼作品ステータス-->
+            <div class="caption">
+
+              <!--★作品タイトル★-->
+              <h3>
+                                  武器はハンドライト
+                              </h3>
+
+              <!--★コメント★-->
+              <div class="pricebox comment"data-toggle="tooltip"title="こちらに投稿されている55bさんと風鳩麦さんと公式サンプルのSDを拝借させて頂きました。感謝です。
+アイテムやアクセがSSやサムネでズレるのを何とかして欲しい。">
+
+                <div class="row">
+                  <div class="col-xs-12 short--scene">
+
+                    こちらに投稿されている55bさんと風鳩麦さんと公式サンプルのSDを拝借させて頂きました。感謝です。<br />
+アイテムやアクセがSSやサムネでズレるのを何とかして欲し<span class="text-shrink">…</span>
+
+                  </div>
+                </div>
+              </div>
+
+              <div class="pricebox customer_name">
+                <div class="container-fluid">
+                  <div class="row">
+
+                    <!--★投稿日時(更新日時)★-->
+                      <div  class="col-xs-4 time">
+                        <span class="">
+                          2019/10/28 - 19:16
+                        </span>
+                      </div>
+
+                    <!--★ハンドルネーム★-->
+                                          <div class="col-xs-8 handle_name text-right scene_handle_name" data-toggle="tooltip" title="Edyの投稿作品を検索">
+                        <a href="?&handle_name[]=Edy">
+                          <div>
+                            by Edy
+                          </div>
+                        </a>
+                      </div>
+                    
+                    <div class="applause--scene" data-container="body" data-toggle="tooltip" title="いいね！">
+                      <form name="applause63" method="post" action="?&page=105">
+
+                        <input type="hidden" name="applauseIdx" value="63" />
+                        <input type="hidden" name="mode" value="applause" />
+                        <input type="hidden" name="transactionid" value="b2fe09d18a46f72231235dfd4cf3afe7949056a6" />
+
+                        <p class="applause-count">
+                          12
+                        </p>
+
+                        <button class="applause-btn btn">
+                          <i class="far fa-thumbs-up"></i>
+                          <p>
+                            いいね
+                          </p>
+                        </button>
+
+                      </form>
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+
+              <!--★ダウンロードチェック★-->
+              
+            </div>
+          </div>
+        </div>
+        <!--▲作品-->
+</body>
+</html>
